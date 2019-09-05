@@ -259,8 +259,6 @@ nav {
     color: $gray;
     font-size: 22px;
     font-style: italic;
-    text-align: justify;
-}
   }
 
   .comments {
@@ -271,6 +269,10 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+}
+
+.entry > p {
+    text-align: justify;
 }
 
 .wrapper-footer {
