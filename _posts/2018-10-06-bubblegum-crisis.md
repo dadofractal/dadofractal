@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bubblegum Crisis"
 permalink: 1
 categories: [analisis]
