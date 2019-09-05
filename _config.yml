@@ -21,8 +21,8 @@ footer-links:
   email: dadofractal@gmail.com
   facebook:
   flickr:
-  github: dadofractal/dadofractal.github.io
-  instagram:
+  github: twissell-
+  instagram: demo.tw
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -93,4 +93,3 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "post"
-      excerpt_separator: <!--more-->
