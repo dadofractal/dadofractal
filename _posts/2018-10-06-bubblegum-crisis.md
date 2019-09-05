@@ -1,6 +1,5 @@
 ---
 title: "Bubblegum Crisis"
-permalink: 1
 categories: [analisis]
 tags: [80s, anime, bubblegum crisis, ova, retro]
 excerpt_separator: <!--more-->
