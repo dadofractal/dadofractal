@@ -1,11 +1,16 @@
 ---
+layout: post
 title: "Bubblegum Crisis"
-date: "2018-10-06"
+permalink: 1
+categories: [analisis]
+tags: [80s, anime, bubblegum crisis, ova, retro]
 ---
 
 ![](https://dadofractalblog.files.wordpress.com/2018/10/438c5-1_yUn6NimV61796-KdO7fUpw.png?w=1024)
 
 Me encantan los 80s. Me encanta el cyberpunk. Me encanta ver chicas lindas combatiendo en trajes ajustados a los esbirros de una malvada corporación multinacional que desea conquistar el mundo. Debería encantarme Bubblegum Crisis.. pero no.
+
+<!--more-->
 
 Bubblegum Crisis es una serie de ovas, el primero estrenado en 1987, producidos por Youmex y animados en conjunto por Artmic y AIC. ¿No te suenan? Youmex no produjo nada de valor excepto algunos soundtracks. Artmic es uno de los responsables de la saga Génesis Climber Mospeada. AIC por su parte cuenta en su haber con títulos comos Tenchi Muyo, Amagami SS, Oreimo, Haganai y Date a Live. Solo por nombrar algunos. La serie estaba pensada para 13 episodios, pero disputas legales entre Youmex y Artmic hicieron que su cantidad se redujera a sólo ocho. Y esto podría ser un dato meramente anecdótico, si no fuera porque ese recorte se siente. Y mucho.
 
@@ -48,4 +53,4 @@ El soundtrack es un tema aparte. Lo recomiendo todo. La música es un elemento m
 
 Resumiendo un poco, Bubblegum Crisis esta buena si se la toma como una serie episódica, ya que problemas externos dejaron la trama principal trunca. Buena animación, una ambientación bien lograda y una gran banda de sonido. ¿La recomiendo? Si, pero solo a gente a la que le guste el cyberpunk, el anime ochentoso y esté dispuesto a hacer la vista gorda a todos los cabos que deja sueltos. Pero aunque no la vean, arrimen la Vocal Collection a sus oídos.
 
-![](https://dadofractalblog.files.wordpress.com/2019/01/07-1.png?w=100)
+<center>![](https://dadofractalblog.files.wordpress.com/2019/01/07-1.png?w=100)</center>
