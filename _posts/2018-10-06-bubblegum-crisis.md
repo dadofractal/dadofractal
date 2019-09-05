@@ -3,6 +3,7 @@ title: "Bubblegum Crisis"
 permalink: 1
 categories: [analisis]
 tags: [80s, anime, bubblegum crisis, ova, retro]
+excerpt_separator: <!--more-->
 ---
 
 ![](https://dadofractalblog.files.wordpress.com/2018/10/438c5-1_yUn6NimV61796-KdO7fUpw.png?w=1024)
