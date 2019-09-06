@@ -52,4 +52,4 @@ El soundtrack es un tema aparte. Lo recomiendo todo. La música es un elemento m
 
 Resumiendo un poco, Bubblegum Crisis esta buena si se la toma como una serie episódica, ya que problemas externos dejaron la trama principal trunca. Buena animación, una ambientación bien lograda y una gran banda de sonido. ¿La recomiendo? Si, pero solo a gente a la que le guste el cyberpunk, el anime ochentoso y esté dispuesto a hacer la vista gorda a todos los cabos que deja sueltos. Pero aunque no la vean, arrimen la Vocal Collection a sus oídos.
 
-<center>![](https://dadofractalblog.files.wordpress.com/2019/01/07-1.png?w=100)</center>
+![](https://dadofractalblog.files.wordpress.com/2019/01/07-1.png?w=100)
