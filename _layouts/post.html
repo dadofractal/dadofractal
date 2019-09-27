@@ -3,14 +3,34 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+
+  {% if page.banner %}
+    <img src="{{ site.baseurl }}/{{ page.banner }}"></img>
+  {% endif %}
+
+  <table style="width:100%">
+    <tr>
+      <th><h1>{{ page.title }}</h1></th>
+      <th>
+        <div class="date">
+          {{ page.date | date_to_string }}
+        </div>
+     </th>
+    </tr>
+  </table>
 
   <div class="entry">
     {{ content }}
-  </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    {% if page.score %}
+      <p><img src="{{ site.baseurl }}/assets/img/score/{{ page.score }}.png" alt=""></p>
+    {% endif %}
+
+    <hr></hr>
+    <center><p>Gracias por leer</p></center>
+    {% if page.footer %}
+      <p><img src="{{ site.baseurl }}/{{ page.footer }}" alt=""></p>
+    {% endif %}
   </div>
 
   {% include disqus.html %}

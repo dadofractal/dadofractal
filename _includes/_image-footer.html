@@ -1,0 +1,5 @@
+{% if include.md == true %}
+    <center>{{ include.footer | markdownify }}</center>
+{% else %}
+    <center><p>{{ include.footer }}</p></center>
+{% endif %}

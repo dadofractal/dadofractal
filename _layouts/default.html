@@ -27,7 +27,8 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
+            <a href="{{ site.baseurl }}/tags">Tags</a>
+            <a href="{{ site.baseurl }}/categories">Categories</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
         </header>
@@ -47,5 +48,11 @@
     </div>
 
     {% include analytics.html %}
+    <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+    <script>addBackToTop({
+      diameter: 56,
+      backgroundColor: '#eee',
+      textColor: '#000'
+    })</script>
   </body>
 </html>
