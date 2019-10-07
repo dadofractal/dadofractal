@@ -1,8 +1,8 @@
 ---
-title: ""
-date: ""
+title: #title
+date: 2052-08-10 #date
 score: 
-//permalink: /1
+# permalink: #permalink
 categories: []
 tags: []
 banner: 
