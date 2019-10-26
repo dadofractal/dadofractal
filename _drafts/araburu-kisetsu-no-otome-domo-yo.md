@@ -1,12 +1,12 @@
 ---
 title: "Araburu Kisetsu no Otome-domo yo"
-date: 2052-08-10 
-score: 
+date: 2052-08-10
+score:
 # permalink: #permalink
 categories: []
 tags: []
-banner: 
-footer: 
+banner:
+footer:
 ---
 
 A los trece años, después de un mes de idas y venidas, logré ponerme de novio con la chica que me gustaba. En aquel entonces no era el degenerado que soy ahora. Era crédulo, inocente, y como debería ser en todo prepúber, tenía una visión idealizada del amor.
@@ -25,7 +25,7 @@ Basta de generalidades.
 
 Si, esta frase es el disparador que pone la trama en movimiento.
 
-Las chicas del club de literatura tienen como actividad recitar novelas eróticas, o semi-eróticas en realidad, del tipo que recurren a metáforas poéticas para describir la acción usando "néctar", por ejemplo, para referirse a la eyaculacion femenina. Esta situacion es usada para poner el tema sobre la mesa y si bien todas nuestras protagonistas sienten curiosidad, no en todas se ve manifiestada esta curiosidad de la misma manera. 
+Las chicas del club de literatura tienen como actividad recitar novelas eróticas, o semi-eróticas en realidad, del tipo que recurren a metáforas poéticas para describir la acción usando "néctar", por ejemplo, para referirse a la eyaculacion femenina. Esta situacion es usada para poner el tema sobre la mesa y si bien todas nuestras protagonistas sienten curiosidad, no en todas se ve manifiestada esta curiosidad de la misma manera.
 
 Rika es la primera en dejar clara su postura: mientras sea en un libro todo bien, pero cualquier cualquier conducta sexual en la vida real es cosa de degenarados. Es una estudiante modelo que rechaza todo tipo que interaccion con el sexo opuesto y a las personas que las mantien. O en sus propias palabras: "de las piernas de esas mujeres no sale nectar, sino caldo de cerdo". Lo que se nos deja ver desde el principo es que toda es aversion es producto de la falta de confianza. Es ella la que se considera un bagarto, esa es la imagen que da a los demas. Y todos sabemos que _como te ven, te tratan_. Su baja autoestima es tal, que cuando de entre todos los que le estan diciendo fea en clase salta alguien diciendo "Hey! no se.. para mi es bonita" ella lo toma como una cargada mas. Duda. ?Porque aguien me trataria con carino cuando soy un gordo virgo?
 
@@ -43,13 +43,12 @@ Y por ultimo, Niina, la kudere, la bella misteriosa, la que quiere coger antes d
 
 ## sometitle
 
+En los primeros episodios podemos ver a Kazusa en un despertar al mundo del sexo y la sensualidad. Derrepente, empieza a ver referecias en todo lo que la rodea: desde la comida que prepara su madre hasta un tren, metiendo en un tunel. Sutilezas como esas, si bien son divertidas, tambien retratan muy bien la ansiedad mental que ella esta sintiendo ante el apabullante mundo que acaba de empezar a descubrir. La obra esta llena de este tipo de cosas, donde la direccion acompana las emociones de los que estan en escena.
 
+En el apartado visual, realmente de deja ver. Los disenos de personajes son hermosos. La paleta de colores pasteles es un acierto, va muy bien con el todo de la serie y la animacion es solida, se mantiene. Obvio, no es KyoAni, pero es esxcelente para la historia que quiere contar.
 
+Y sobre el tono de la serie quiero aclarar: la serie es en escencia un drama, si, un poco melancolico a veces. Y si bien tiene sus momentos, la comedia sabe convivir muy bien con la tencion. Esto la hace muy entretenida y llevadera. Sobre todo si tenemos en cuenta que esta escrita por la reina del melodrama, Mari Okada. Me parece que esta vez supo hacer algo refrescante y distinto a sus anteriores obras.
 
-Desde este punto de partida veremos a cada una de ellas encarando el tema y las situaciones que se le presentan de manera diferente.
+La novia de la que hable al principio solo me duro dos meses y ni siquiera nos dimos un beso. Y aunque podria considerarlo un fracazo, la recuerdo con carino porque fue necesario que caminara por ahi. Dolio, pero me sobrepuse, y aprendi. Araburu Kisetsu no Otome-domo yo es buena porque evita ser un ramillete de cliches y le plantea a sus personajes situaciones que tienen que atravezar para crecer. Todas diferentes (algunas mejores que otras). Y ya dije, es coral. La variedad del elenco aporta gran riqueza tambien, donde algunas son timidas, indiferentes, agresivas, o directamente estan rotas.
 
-
-Después de todo, está escrita por Mari Okada y si sus guiones no te sacan lágrimas como la vez que echaron al chavo de la vecindad por ratero es porque o bien no tenés corazón, o sos un puto reptiliano.
-
-
-
+Definitivaemente, vale la pena que la vean.
