@@ -1,7 +1,7 @@
 ---
 title: "Bubblegum Crisis"
-score: 7
-//permalink: /1
+score: 6
+permalink: /1
 categories: [analisis]
 tags: [80s, anime, bubblegum crisis, ova, retro]
 banner: assets/img/posts/bubblegum-crisis-0.png

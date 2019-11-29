@@ -1,8 +1,8 @@
 ---
 title: "Sobre Tate no Yuusha y los Isekai"
 date: "2019-07-22"
-# score:
-# permalink: /1
+score: 8
+permalink: /5
 categories: [review]
 tags: [anime, invierno 2019, isekai, primavera 2019, tate no yuusha no nariagari]
 banner: assets/img/posts/sobre-tate-no-yuusha-y-los-isekai-0.jpg

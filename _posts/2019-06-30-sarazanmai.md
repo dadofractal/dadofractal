@@ -1,8 +1,8 @@
 ---
 title: "Sarazanmai"
 date: "2019-06-30"
-# score:
-# permalink: /1
+score: 6
+permalink: /4
 categories: [review]
 tags: [anime, kunihiko ikuhara, primavera 2019, sarazanmai]
 banner: assets/img/posts/sarazanmai-0.jpg

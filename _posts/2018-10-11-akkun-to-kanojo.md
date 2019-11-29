@@ -1,8 +1,8 @@
 ---
 title: "Akkun to Kanojo"
 date: "2018-10-11"
-score: 5
-//permalink: /1
+score: 4
+permalink: /2
 categories: [review]
 tags: [anime, comedia, verano 2018]
 banner: assets/img/posts/akkun-to-kanojo-0.png

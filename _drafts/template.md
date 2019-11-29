@@ -2,7 +2,7 @@
 title: #title
 date: 2052-08-10
 score: 
-# permalink: #permalink
+# permalink: /1
 categories: []
 tags: []
 banner: 

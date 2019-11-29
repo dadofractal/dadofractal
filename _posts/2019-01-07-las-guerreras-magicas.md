@@ -1,8 +1,8 @@
 ---
 title: "Las Guerreras Magicas"
 date: "2019-01-07"
-score: 7
-//permalink: /1
+score: 6
+permalink: /3
 categories: [analisis]
 tags: [90s, anime, clamp, las guerreras magicas, magic knight rayearth, retro]
 banner: assets/img/posts/las-guerreras-magicas-0.jpg
