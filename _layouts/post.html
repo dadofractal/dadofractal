@@ -4,13 +4,17 @@ layout: default
 
 <article class="post">
 
-  {% if page.banner %}
+  {% if page.banner and page.banner contains 'http://' %}
     <img src="{{ site.baseurl }}/{{ page.banner }}"></img>
+    {% elsif page.banner %}
+    <img src="{{ page.banner }}"></img>
   {% endif %}
 
   <table style="width:100%">
     <tr>
-      <th><h1>{{ page.title }}</h1></th>
+      <th>
+        <h1>{{ page.title }}</h1>
+      </th>
       <th>
         <div class="date">
           {{ page.date | date_to_string }}
@@ -27,10 +31,13 @@ layout: default
     {% endif %}
 
     <hr></hr>
-    <center><p>Gracias por leer</p></center>
-    {% if page.footer %}
-      <p><img src="{{ site.baseurl }}/{{ page.footer }}" alt=""></p>
-    {% endif %}
+    <center><p>Gracias por leer</p>
+      {% if page.footer and page.footer contains 'http://' %}
+      <img src="{{ site.baseurl }}/{{ page.footer }}"></img>
+      {% elsif page.footer %}
+      <img src="{{ page.footer }}"></img>
+      {% endif %}
+    </center>
   </div>
 
   {% include disqus.html %}
