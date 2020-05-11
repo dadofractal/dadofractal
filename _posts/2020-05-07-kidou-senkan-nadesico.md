@@ -2,7 +2,7 @@
 title: 'Kidou Senkan Nadesico'
 date: 2020-05-07
 score: 0
-permalink: /6
+permalink: /7
 categories: ['podcast']
 tags: ['podcast', 'anime', 'kidou senkan nadesico', 'mecha',]
 banner: assets/img/posts/kidou-senkan-nadesico-0.jpg
