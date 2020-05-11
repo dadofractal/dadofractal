@@ -1,11 +1,11 @@
 ---
 title: #title
 date: 2052-08-10
-score: 
-# permalink: /1
-categories: []
-tags: []
-banner: 
-footer: 
+score: #score
+permalink: /999
+categories: #categories
+tags: #tags
+banner: #banner
+footer: #footer
 ---
 
