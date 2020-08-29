@@ -2,7 +2,7 @@
 title: 'Uchuu Senkan Yamato'
 date: 2020-08-14
 score: 0
-permalink: /15
+permalink: /14
 categories: ['podcast']
 tags: ['podcast', 'anime', 'uchuu senkan yamato']
 footer: #footer

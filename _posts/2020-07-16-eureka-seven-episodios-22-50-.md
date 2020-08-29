@@ -2,7 +2,7 @@
 title: 'Eureka Seven (Episodios 22-50)'
 date: 2020-07-16
 score: 0
-permalink: /13
+permalink: /12
 categories: ['podcast']
 tags: ['podcast', 'anime', 'eureka seven']
 footer: #footer
