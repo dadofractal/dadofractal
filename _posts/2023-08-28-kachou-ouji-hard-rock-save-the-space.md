@@ -1,6 +1,6 @@
 ---
 title: 'Kachou Ouji Hard Rock Save The Space'
-date: 2020-08-14
+date: 2020-08-28
 score: 0
 permalink: /15
 categories: ['podcast']
