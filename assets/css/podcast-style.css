@@ -1,4 +1,4 @@
-/* global */
+global
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 .grid-2{
@@ -10,8 +10,8 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: #101214;
-    color: #7A7C80;
+    background-color: #242322;
+    color: rgb(196, 198, 204);
 }
 
 h2,h3,.white{
@@ -19,14 +19,14 @@ h2,h3,.white{
 }
 
 a{
-    color: #7A7C80;
+    color: rgb(196, 198, 204);
     text-decoration: none;
 }
 /* section 1 */
 .section {
     padding-top: 10%;
-    padding-left: 35%;
-    padding-right: 35%;
+    padding-left: 25%;
+    padding-right: 25%;
     text-align: center;
 }
 
@@ -55,8 +55,21 @@ a{
     padding: 0.5rem;
 }
 
+.social-media p{
+    font-size: 0.5em;
+    display: block;
+}
+
+.social-media img {
+    max-width: 2em;
+}
+
+.episodes p {
+    text-align: left;
+}
+
 .episodes a {
-    font-size: 1rem;
+    font-size: 0.7em;
 }
 
 .section a:hover{

@@ -71,7 +71,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $gray;
   text-decoration: none;
   cursor: pointer;
   &:hover, &:active {
@@ -95,10 +95,6 @@ ol {
 
 ol ul, ul ol, ul ul, ol ol {
   margin: 0;
-}
-
-ul ul, ol ul {
-  list-style-type: circle;
 }
 
 em, i {
@@ -372,8 +368,11 @@ footer {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
-
 }
+.footer img {
+  max-width: 2em;
+}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

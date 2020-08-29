@@ -1,7 +1,7 @@
 ---
 layout: none
 #title: Frequently Asked Questions
-permalink: /podcast/
+permalink: /
 ---
 <head>
     <meta charset="UTF-8">
@@ -16,28 +16,42 @@ permalink: /podcast/
         <div class="section">
             <img src="{{ site.baseurl }}/assets/img/logo150x150.png"><img>
             <h2>Dado Fractal</h2>
-            <p>El podcast que te propone bajarte del tren del hype para repasar esos animes de los que ya nadie habla</p>
+            <p>El podcast que te propone bajarte del tren del hype para repasar esos animes de los que ya nadie habla.</p>
             <div class="social-media">
-                <a href="https://www.facebook.com/Dado-Fractal-102035101503952">
-                    <i class="fab fa-2x fa-facebook"></i></a>
-                <a href="https://twitter.com/dadofractal">
-                    <i class="fab fa-2x fa-twitter"></i></a>
-                <a href="https://www.instagram.com/dadofractal/">
-                    <i class="fab fa-2x fa-instagram"></i></a>
-                <a href="https://www.youtube.com/channel/UCvdnlKDxOBQerlBvsZKpEHQ">
-                    <i class="fab fa-2x fa-youtube"></i></a>
-                <a href="https://open.spotify.com/show/4urOp89jKoWKsEXRRIqWJv">
-                    <i class="fab fa-2x fa-spotify"></i></a>
-                <a href="http://feeds.feedburner.com/DadoFractal">
-                    <i class="fas fa-2x fa-rss"></i></a>
+                <h3>Escuchanos</h3>
+
+                <a target="_blank" href="https://www.youtube.com/channel/UCvdnlKDxOBQerlBvsZKpEHQ">
+                    <img src="{{ site.baseurl }}/assets/img/social-media/youtube.png" alt="Youtube"><img/> </a>
+                <a target="_blank" href="https://open.spotify.com/show/4urOp89jKoWKsEXRRIqWJv">
+                    <img src="{{ site.baseurl }}/assets/img/social-media/spotify.png" alt="Spotify"><img/> </a>
+                <a target="_blank" href="https://podcasts.apple.com/ar/podcast/dado-fractal/id1527944158">
+                    <img src="{{ site.baseurl }}/assets/img/social-media/itunes.png" alt="Apple Podcast"><img/> </a>
+                <a target="_blank" href="https://ar.ivoox.com/es/podcast-dado-fractal_sq_f1908517_1.html">
+                    <img src="{{ site.baseurl }}/assets/img/social-media/ivoox.png" alt="Ivoox"><img/> </a>
+                <a target="_blank" href="http://feeds.feedburner.com/DadoFractal">
+                    <img src="{{ site.baseurl }}/assets/img/social-media/rss.png" alt="Rss"><img/> </a>
+
+                <h3>Seguinos</h3>
+
+                <a target="_blank" href="https://www.facebook.com/Dado-Fractal-102035101503952">
+                    <img src="{{ site.baseurl }}/assets/img/social-media/facebook.png" alt="Facebook"><img/> </a>
+                <a target="_blank" href="https://twitter.com/dadofractal">
+                    <img src="{{ site.baseurl }}/assets/img/social-media/twitter.png" alt="Twitter"><img/> </a>
+                <a target="_blank" href="https://www.instagram.com/dadofractal/">
+                    <img src="{{ site.baseurl }}/assets/img/social-media/instagram.png" alt="Instagram"><img/> </a>
+            </div>
+            <div class="episodes">
+                <h3>Episodios</h3>
+                {% assign posts = site.posts | where_exp:"item", "item.categories contains 'podcast'"  %}
+                <p>
+                {% for post in posts %}
+                    <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} &raquo; {{ post.title }}</a><br/>
+                {% endfor %}
+                </p>
+            </div>
+            <div class="social-media">
+                <h3><a href="{{ site.baseurl }}/blog">Blog</a></h3>
             </div>
         </div>
-        <!-- <div class="section episodes">
-            <h3>Episodios</h3>
-            {% assign posts = site.posts | where_exp:"item", "item.categories contains 'podcast'"  %}
-            {% for post in posts %}
-                <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} &raquo; {{ post.title }}</a>
-            {% endfor %}
-        </div> -->
     </div>
 </body>
