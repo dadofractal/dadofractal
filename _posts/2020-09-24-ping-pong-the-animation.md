@@ -18,7 +18,7 @@ Tambien podes [descargar el mp3](https://anchor.fm/s/2ed233f8/podcast/play/19908
 
 - Estreno: 11 de abril de 2014
 - Adapta un manga de [Taiyou Matsumoto](https://anilist.co/staff/97409)
-- Estudio: Tatsunoko Production](https://anilist.co/studio/103)
+- Estudio: [Tatsunoko Production](https://anilist.co/studio/103)
     - Kagaku Ninja-Tai Gatchaman (1972)
     - Choujikuu Yousai Macross (1982)
     - Megazone 23 (1983)
