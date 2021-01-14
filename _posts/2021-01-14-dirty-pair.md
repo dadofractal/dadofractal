@@ -1,6 +1,6 @@
 ---
 title: 'Dirty Pair'
-date: 2020-12-17
+date: 2021-01-14
 score: 0
 permalink: /24
 categories: ['podcast']
