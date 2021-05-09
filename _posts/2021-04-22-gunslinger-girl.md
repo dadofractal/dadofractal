@@ -15,7 +15,6 @@ Si el video no funciona, miralo [directamente en YouTube](https://youtu.be/zqsZJ
 <!-- Tambien podes [descargar el mp3](CHANGEME). -->
 
 ## Ficha Técnica
-
 - Estreno: 8 de agosto de 2003
 - Adaptacion de un manga de [Yuu Aida](https://anilist.co/staff/97113)
 - Estudio: [MADHOUSE](https://anilist.co/studio/11)
