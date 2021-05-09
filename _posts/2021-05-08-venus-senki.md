@@ -1,6 +1,6 @@
 ---
 title: 'Venus Senki'
-date: 2021-04-22
+date: 2021-05-08
 score: 0
 permalink: /32
 categories: ['podcast']
