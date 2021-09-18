@@ -8,9 +8,9 @@ tags: ['podcast', 'anime', 'garzey no tsubasa']
 footer: #footer
 ---
 
-{% include youtube.html id='/6UVA9dQFwow' footer='' %}
+{% include youtube.html id='/2XiAny9KwEs' footer='' %}
 
-Si el video no funciona, miralo [directamente en YouTube](https://youtu.be//6UVA9dQFwow).
+Si el video no funciona, miralo [directamente en YouTube](https://youtu.be//2XiAny9KwEs).
 
 <!-- Tambien podes [descargar el mp3](CHANGEME). -->
 
